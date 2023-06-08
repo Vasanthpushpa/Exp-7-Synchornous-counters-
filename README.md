@@ -119,7 +119,8 @@ endmodule
 ![image](https://github.com/Vasanthpushpa/Exp-7-Synchornous-counters-/assets/119291100/f4a190c2-59a4-4af9-8a14-4dfc2631d00e)
 
 ## DOWN COUNTER TRUTH TABLE
-![Uploading image.png…]()
+![image](https://github.com/Vasanthpushpa/Exp-7-Synchornous-counters-/assets/119291100/bc5d3a04-25d2-453b-9ae0-ab91f7995b2c)
+
 
 
 ### RESULTS 
